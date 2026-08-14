@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YawPremuh
-- 👀 I’m interested in AI/ML and software - hardware engineering
+- 👀 I’m interested in Machine Learning Systems/Infrastructure
 - 🌱 I’m currently learning electrical and computer engineering and working towards my bachelor's degree through experiential learning at Drexel University.
 - 💞️ I’m looking to collaborate on ML and computer vision systems
 - 📫 You can connect with me on LinkedIn (www.linkedin.com/in/yawpremuh) or send me a mail (pp679@drexel.edu)
