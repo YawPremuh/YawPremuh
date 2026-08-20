@@ -8,10 +8,8 @@
 ## 📊 GitHub Stats
 
 [![Yaw's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YawPremuh&theme=dracula)](https://github.com/YawPremuh/github-readme-activity-graph)
-
-![Yaw's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=YawPremuh&theme=radical&hide_border=false)
-
-![Yaw's most-used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YawPremuh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=YawPremuh&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YawPremuh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!---
 YawPremuh/YawPremuh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
