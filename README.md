@@ -1,17 +1,17 @@
-- 👋 Hi, I’m @YawPremuh
-- I’m interested in Machine Learning Systems/Infrastructure
-- I’m currently learning electrical and computer engineering and working towards my bachelor's degree through experiential learning at Drexel University.
-- I’m looking to collaborate on ML and computer vision systems
-- You can connect with me on LinkedIn (www.linkedin.com/in/yawpremuh) or send me a mail (pp679@drexel.edu)
-- Fun fact: I like to play soccer ⚽️, play video games and I support the best club in the world (REAL MADRID)
+- Hi, I’m [@YawPremuh](https://github.com/YawPremuh).
+- I’m interested in machine learning systems and infrastructure.
+- I’m studying electrical and computer engineering at Drexel University, where I’m working toward my bachelor’s degree through experiential learning.
+- I’m looking to collaborate on machine learning and computer vision systems.
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/yawpremuh) or email me at [pp679@drexel.edu](mailto:pp679@drexel.edu).
+- Fun fact: I enjoy playing soccer and video games, and I support the best club in the world—Real Madrid!
 
-<p align="center">
- <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-</p>
-# 📊GitHub Stats :[![Eze's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dyno-star&theme=dracula)](https://github.com/dyno-star/github-readme-activity-graph)
-![](https://github-readme-streak-stats.herokuapp.com/?user=dyno-star&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dyno-star&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
+## 📊 GitHub Stats
+
+[![Yaw's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YawPremuh&theme=dracula)](https://github.com/YawPremuh/github-readme-activity-graph)
+
+![Yaw's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=YawPremuh&theme=radical&hide_border=false)
+
+![Yaw's most-used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YawPremuh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!---
 YawPremuh/YawPremuh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
