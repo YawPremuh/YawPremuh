@@ -7,11 +7,11 @@
 - I’ll be happy to receive any feedback or code reviews that can help me improve 
 
   
-## 📊 Yaw's GitHub Statistics
+## 📊 GitHub Statistics
 
 ![Yaw's GitHub Stats](https://github-stats-extended.vercel.app/api?username=YawPremuh&show_icons=true&theme=tokyonight)
 
-## 💻 Yaw's Most Used Languages
+## 💻 Most Used Languages
 
 ![Yaw's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=YawPremuh&layout=compact&langs_count=8&theme=tokyonight)
 
