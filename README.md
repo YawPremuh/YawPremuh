@@ -7,7 +7,14 @@
 - I’ll be happy to receive any feedback or code reviews that can help me improve 
 
   
-[![Yaw's GitHub stats](https://github-stats-extended.vercel.app/api?username=YawPremuh)](https://github.com/stats-organization/github-stats-extended)
+## 📊 GitHub Statistics
+
+![Yaw's GitHub Stats](https://github-stats-extended.vercel.app/api?username=YawPremuh&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Yaw's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=YawPremuh&layout=compact&langs_count=8&theme=tokyonight)
+
 <!---
 YawPremuh/YawPremuh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
