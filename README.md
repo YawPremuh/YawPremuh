@@ -7,7 +7,7 @@
 - I’ll be happy to receive any feedback or code reviews that can help me improve 
 
   
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yawpremuh&layout=compact&theme=radical)
+[![Yaw's GitHub stats](https://github-stats-extended.vercel.app/api?username=YawPremuh)](https://github.com/stats-organization/github-stats-extended)
 <!---
 YawPremuh/YawPremuh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
